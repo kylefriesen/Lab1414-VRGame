@@ -1,2 +1,2 @@
-# Lab1414-VRGame!
-[mm01](https://user-images.githubusercontent.com/112525739/190688016-b27900e1-abfb-422a-a37a-fb9b88b8bf3d.png)
+# Lab 1414: Combat Testing Facility (Demo)
+Lab 1414: Combat Testing Facility is a VR shooter for the Meta Quest 2. Test robot weapon systems and earn a combat score.
