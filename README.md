@@ -20,3 +20,9 @@ Choose your apk from the window that opens
 
 From your Quest headset, go to Library -> Unknown Sources
 Click the app you want to launch from the list on the right
+
+## Media and Screenshots
+Gameplay Video
+https://www.youtube.com/watch?v=sPKbyrOQIJQ&ab_channel=ScriptOceanGames
+
+
