@@ -2,7 +2,7 @@
 Lab 1414: Combat Testing Facility is a VR shooter for the Meta Quest 2. Test robot weapon systems and earn a combat score.
 
 
-#Installation Instructions using SIDEQUEST
+## Installation Instructions using SIDEQUEST
 1. Download .apk file here: 
 https://drive.google.com/file/d/1yG5822PGnA43SmWvSWVNX3OJE58GbBqP/view?usp=sharing
 
