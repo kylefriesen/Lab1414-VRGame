@@ -20,19 +20,7 @@ public class PlayerShoot : MonoBehaviour
         float triggerleft = OVRInput.Get(OVRInput.RawAxis1D.LIndexTrigger);
         float triggerright = OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger);
 
-        if (Input.GetButtonDown("Fire1"))
-        {
-            GameObject ball = Instantiate(projectile, transform.position,
-                                                      transform.rotation);
-            ball.GetComponent<Rigidbody>().AddRelativeForce(new Vector3
-                                                 (0, 0, launchVelocity));
         
-           gunsound.PlayOneShot(gunshot);
-        
-            Instantiate(mflash, mflashOrigin.transform.position, mflashOrigin.transform.rotation);
-        
-        
-        }
         if (!lefthand)
 
         {
