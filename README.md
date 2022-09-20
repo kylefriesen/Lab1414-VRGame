@@ -4,7 +4,7 @@ Lab 1414: Combat Testing Facility is a VR shooter for the Meta Quest 2 created i
 
 ## Installation Instructions using SIDEQUEST
 1. Download .apk file here: 
-https://drive.google.com/file/d/1yG5822PGnA43SmWvSWVNX3OJE58GbBqP/view?usp=sharing
+https://drive.google.com/file/d/1ihRCEVNE4R84TBKjMQ_abgE2i6jgd3b7/view?usp=sharing
 
 2. Install SideQuest VR application on your computer: 
 https://sidequestvr.com/
