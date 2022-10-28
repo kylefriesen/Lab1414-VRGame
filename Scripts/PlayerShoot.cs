@@ -71,12 +71,7 @@ public class PlayerShoot : MonoBehaviour
             }
 
         }
-        if (fire == true && triggerleft < 0.1f)
-        {
-
-            
-
-        }
+        
 
         IEnumerator StopVibrationR()
         {
